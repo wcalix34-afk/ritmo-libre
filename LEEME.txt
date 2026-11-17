@@ -1,0 +1,19 @@
+RITMO LIBRE — APP WEB INSTALABLE
+
+PUBLICAR GRATIS CON GITHUB PAGES
+1. Entra a github.com e inicia sesión (o crea una cuenta gratuita).
+2. Crea un repositorio nuevo y ponlo como público. Puedes llamarlo ritmo-libre.
+3. Sube todos los archivos de esta carpeta (index.html, manifest.webmanifest, sw.js y los iconos).
+4. En Settings > Pages, en Build and deployment, elige Deploy from a branch; selecciona la rama main y la carpeta /(root), y guarda.
+5. Espera a que GitHub muestre la dirección publicada. Abre esa dirección en Safari en tu iPhone.
+6. En Safari toca Compartir > Añadir a pantalla de inicio > Añadir.
+
+La dirección suele tener este formato:
+https://TU-USUARIO.github.io/ritmo-libre/
+
+NOTAS
+- No se paga Apple Developer Program ni se necesita App Store para instalarla así.
+- GitHub Pages requiere un repositorio público en el plan gratuito. El código de la web será visible públicamente; tus canciones añadidas desde la app no se suben a GitHub.
+- La biblioteca y las listas se guardan en el almacenamiento del navegador del dispositivo.
+- El modo sin conexión cubre la interfaz y los archivos que hayas añadido; los enlaces externos de música requieren internet.
+- Para actualizarla, vuelve a subir los archivos nuevos al repositorio y recarga la app en el iPhone.

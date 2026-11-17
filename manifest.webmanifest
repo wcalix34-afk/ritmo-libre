@@ -1,0 +1,16 @@
+{
+  "id": "./",
+  "name": "Ritmo Libre",
+  "short_name": "Ritmo Libre",
+  "description": "Tu música personal, sin mensualidades.",
+  "lang": "es",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#10110f",
+  "theme_color": "#10110f",
+  "icons": [
+    { "src": "./icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
